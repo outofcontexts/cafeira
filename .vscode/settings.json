@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "C:/Users/yarth/OneDrive/Área de Trabalho/-/Java/vscodium_Cafera_final/lib/sqlite-jdbc-3.49.1.0.jar",
+        "C:/Users/yarth/OneDrive/Área de Trabalho/-/Java/vscodium_Cafera_final/lib/javafx-sdk-24/lib/*.jar"
+    ]
+}

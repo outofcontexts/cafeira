@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "vscodium_Cafera"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "vmArgs": [
+                "--add-modules",
+                "javafx.controls,javafx.fxml",
+                "--module-path",
+                "C:/Users/yarth/OneDrive/Área de Trabalho/-/Java/vscodium_Cafera_final/lib/javafx-sdk-24/lib",
+            ],
+            //"preLaunchTask": "clean",
+            "mainClass": "App"
+        }
+    ]
+}
